@@ -1,18 +1,13 @@
 {
-    "name": "october/demo-theme",
-    "type": "october-theme",
-    "description": "Demo OctoberCMS theme",
+    "name": "imansugirman/starter-theme",
+    "type": "october-starter-theme",
+    "description": "Starter October Theme",
     "keywords": ["october", "cms", "demo", "theme"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexey Bobkov",
-            "email": "aleksey.bobkov@gmail.com",
-            "role": "Co-founder"
-        },
-        {
-            "name": "Samuel Georges",
-            "email": "daftspunky@gmail.com",
+            "name": "Nakamura Agatha",
+            "email": "nakamura.agatha@gmail.com",
             "role": "Co-founder"
         }
     ],
@@ -22,7 +17,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "master": "1.0-dev"
         }
     }
 }
