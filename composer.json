@@ -1,5 +1,5 @@
 {
-    "name": "imansugirman/starter-theme",
+    "name": "imansugirman/october-starter-theme",
     "type": "october-starter-theme",
     "description": "Starter October Theme",
     "keywords": ["october", "cms", "demo", "theme"],
@@ -8,7 +8,7 @@
         {
             "name": "Nakamura Agatha",
             "email": "nakamura.agatha@gmail.com",
-            "role": "Co-founder"
+            "role": "Developer"
         }
     ],
     "require": {
